@@ -80,9 +80,3 @@ void rainbowCycle(int cycles, uint8_t wait) {
     delay(wait);
   }
 }
-
-
-
-
-
-
